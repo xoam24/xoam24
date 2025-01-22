@@ -1,0 +1,31 @@
+h1 {
+	color: #58d824;
+	font-size: 40px;
+	font-weight: 400;
+	font-family: Arial, sans-serif;
+	text-align: center;
+}
+
+img {
+	width: 300px;
+	border-radius: 20px;
+	box-shadow: 30px 15px 100px #58d824;
+
+}
+a {
+	text-decoration: none;
+	color: #0c98df ;
+	font-size: 40px;
+	font-weight: 400;
+	font-family: Arial, sans-serif;
+	text-align: center;
+}
+p {
+	border: 5px solid red;
+	width: 300px;
+	border-radius: 20px;
+	box-shadow: 30px 15px 100px #e8290b;
+	padding: 20px 20px 20px 20px;
+	text-align: center;
+	font-weight: 80px;
+}
